@@ -1,0 +1,17 @@
+{
+  "name": "twitagg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twitph.js",
+  "scripts": {
+    "start": "node twitph.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "dstools": "^0.2.10",
+    "twit": "^2.2.11"
+  }
+}
